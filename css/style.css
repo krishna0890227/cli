@@ -1,0 +1,46 @@
+body {
+    
+    background-color:#4a4a4f;
+    font-family: "Oswald", sans-serif;
+}
+p {
+    color: red;
+}
+
+nav{
+    height:80px;
+    background-color:greenyellow;
+}
+
+nav ul{
+     text-decoration:None;
+     text-align:center;
+     padding:0;
+     margin:0;
+
+}
+
+nav li {
+    font-size: 1.2em;
+    height:40px;
+    width:80px;
+    display:inline-block;
+    margin:2.5em;
+
+}
+
+nav a{
+    text-decoration:none;
+    color:blue;
+    display:block;
+}
+
+nav a:hover{
+    background-color:white;
+    color:green;
+}
+
+.card {
+  height:100px;
+  width:200px;
+}
